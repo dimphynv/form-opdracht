@@ -76,6 +76,10 @@ input{
   margin-bottom: 10px;
   width: 250px;
 }
+p{
+  color: red;
+  font-size: 0.8em;
+}
 
 .btn{
   margin-top: 20px;
@@ -90,4 +94,5 @@ input{
 
 .joker{
   color: red;
+  font-size: 0.8em;
 }
